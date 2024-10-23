@@ -3,8 +3,8 @@
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
 
-  console.log(import.meta.env.VITE_API_URL) // http://localhost:5000/api
-  console.log(import.meta.env.DB_LOG) // undefined
+  //console.log(import.meta.env.VITE_API_URL) // http://localhost:5000/api
+  //console.log(import.meta.env.DB_LOG) // undefined
 </script>
 
 <main>
